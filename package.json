@@ -1,0 +1,24 @@
+{
+  "name": "kanzan",
+  "version": "0.0.1",
+  "description": "Utility for managing your Kanzan.io sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanzanio/kanzan.git"
+  },
+  "keywords": [
+    "CMS",
+    "CLI",
+    "Kanzan"
+  ],
+  "author": "Kanzan.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanzanio/kanzan/issues"
+  },
+  "homepage": "https://github.com/kanzanio/kanzan"
+}
