@@ -10,6 +10,13 @@
     "type": "git",
     "url": "https://github.com/kanzanio/kanzan.git"
   },
+  "dependencies": {
+    "colors": "~0.6.2",
+    "commander": "~2.2.0",
+    "fs-extra": "~0.11.0",
+    "gitty": "^3.1.1",
+    "prompt": "~0.2.13"
+  },
   "keywords": [
     "CMS",
     "CLI",
