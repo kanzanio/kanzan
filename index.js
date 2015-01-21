@@ -7,7 +7,7 @@ var kanzan = require("./lib");
 
 program
   .command('init')
-  .description('Setup a new Kanzan site.')
+  .description('Configure a new Kanzan site.')
   .action(function() {
     kanzan.init.prompt();
   });
